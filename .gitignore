@@ -166,3 +166,6 @@ cython_debug/
 
 # dataset 폴더도 업로드가 되면 안됨
 dataset/
+
+# project1 폴더 업로드 x
+project1/
